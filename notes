@@ -1,0 +1,24 @@
+python
+opencv -- camera
+mediapipe 
+scikit learn 
+pandas
+
+
+Webcam  done 
+   ↓
+Frame (image)   done    
+   ↓
+get frame
+   ↓
+convert BGR to RGB
+   ↓
+MediaPipe Hands
+   ↓
+21 hand landmark points
+   ↓
+Your classifier/model
+   ↓
+Predicted sign
+   ↓
+Display text on screen
